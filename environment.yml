@@ -1,0 +1,6 @@
+name: sunpy
+channels:
+  - conda-forge
+dependencies:
+  - sunpy
+  - heliopy
