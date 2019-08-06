@@ -4,5 +4,6 @@ channels:
 dependencies:
   - sunpy
   - heliopy
+  - pip
   - pip:
     - cdflib
